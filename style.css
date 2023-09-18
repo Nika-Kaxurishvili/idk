@@ -1,0 +1,79 @@
+body{
+    background-color: #111111;
+}
+.t1{
+    color: white;
+    font-family: ui-sans-serif, system-ui, Helvetica  Arial, sans-serif,
+    Color Symbol, Color;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.div{
+    width: auto;
+    height: 10px;
+    background-color: white;
+    border-radius: 30px;
+    margin-top: 50px;
+}
+.time{
+    color: white;
+    margin-top: 50px;
+    font-family: ui-sans-serif, system-ui, Helvetica  Arial, sans-serif,
+    Color Symbol, Color;
+}
+.div1{
+    width: auto;
+    height: 10px;
+    background-color: white;
+    border-radius: 30px;
+    margin-top: 230px;
+}
+.h2{
+    color: white;
+    font-family: ui-sans-serif, system-ui, Helvetica  Arial, sans-serif,
+    Color Symbol, Color;
+    width: 1000px;
+}
+.h3{
+    color: white;
+    font-family: ui-sans-serif, system-ui, Helvetica  Arial, sans-serif,
+    Color Symbol, Color;
+    width: 1000px;
+}
+.don{
+    color: white;
+    font-family: ui-sans-serif, system-ui, Helvetica  Arial, sans-serif,
+    Color Symbol, Color;
+}
+.div2{
+    background-color: white;
+    width: 100px;
+    height: 30px;
+    border-radius: 30px;
+    margin-left: 610px;
+    margin-top: 100px;
+}
+.r100{
+    color: black;
+    font-family: ui-sans-serif, system-ui, Helvetica  Arial, sans-serif,
+    Color Symbol, Color;
+    margin-left: 17px;
+}
+.div3{
+    background-color: white;
+    width: 100px;
+    height: 30px;
+    border-radius: 30px;
+    margin-left: 800px;
+    margin-top: -47px;
+}
+.idk{
+    color: white;
+    font-family: ui-sans-serif, system-ui, Helvetica  Arial, sans-serif,
+    Color Symbol, Color;
+    margin-left: 17px;
+}
+.ft{
+    width: 150px;
+    height: 150px;
+}
